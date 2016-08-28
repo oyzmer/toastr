@@ -3,7 +3,11 @@ toastr for laravel laravel5.*
 
 #Installation
 
-Run composer require ryan/toastr-for-laravel
+Run :
+
+```bash
+composer require ryan/toastr-for-laravel
+```
 
 Add Oyzm\Toastr\ToastrServiceProvider::class, to providers in config/app.php
 
