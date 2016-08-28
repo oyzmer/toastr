@@ -36,7 +36,7 @@ Just add this code to your blade template file:
 
 Use these methods in controllers:
 
-```
+```php
 Toastr::warning($message, $title = null, $options = []) ;
 
 Toastr::error($message, $title = null, $options = []) ;
